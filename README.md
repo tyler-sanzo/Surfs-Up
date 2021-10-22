@@ -7,9 +7,9 @@ After taking a trip to hawaii, we came up with the idea of opening up a surf sho
 ## Results
 Using the mentioned database, statistical summary tables for temperatures in Hawaii in June and December were generated. See these tables below
 
-![June Temps](https://github.com/tyler-sanzo/Surfs-up/blob/main/Resources/June_Temps.png)
+![June Temps](https://github.com/tyler-sanzo/Surfs-Up/blob/main/Resources/June_Temps.PNG)
 
-![December Temps](https://github.com/tyler-sanzo/Surfs-up/blob/main/Resources/December_Temps.png)
+![December Temps](https://github.com/tyler-sanzo/Surfs-up/blob/main/Resources/December_Temps.PNG)
 
 - Despite the season difference, we can see that the average temperatures for both June and December would be very suitable for surfing and ice cream. Average temperatures are within 4 degrees of each other so no matter what time of year we can be confident that business would be consistent.
 
@@ -22,9 +22,9 @@ Using the mentioned database, statistical summary tables for temperatures in Haw
 
 While the temperature summary gave us some confidence in the success of our business, we wanted to complete the analysis of the weather by checking precipitation statistics. Using the same methods, we extracted rainfall data to generate the tables below.
 
-![June Rain](https://github.com/tyler-sanzo/Surfs-up/blob/main/Resources/June_Prcp.png)
+![June Rain](https://github.com/tyler-sanzo/Surfs-up/blob/main/Resources/June_Prcp.PNG)
 
-![December Rain](https://github.com/tyler-sanzo/Surfs-up/blob/main/Resources/December_Prcp.png)
+![December Rain](https://github.com/tyler-sanzo/Surfs-up/blob/main/Resources/December_Prcp.PNG)
 
 
 As we can see, the average precipitation in both months is relatively low. Using both weather statistics gives us great confidence that our business will be successful year round.
